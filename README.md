@@ -18,7 +18,7 @@ Pokémon API: Provides the data for each Pokémon.
 
 #How to Use
 
-Clone the repository: git clone [https://github.com/your-username/pokemon-card-generator.git](https://github.com/jayngl/Pokemon-Card-Generator.git)
+Clone the repository: git clone https://github.com/jayngl/Pokemon-Card-Generator.git
 Navigate to the project directory: cd pokemon-card-generator
 Open index.html in your browser to view the application.
 Contributing
