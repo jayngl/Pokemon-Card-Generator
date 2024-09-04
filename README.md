@@ -24,3 +24,5 @@ Open index.html in your browser to view the application.
 Contributing
 Feel free to open issues or submit pull requests to contribute to the project.
 
+
+![Screenshot (34)](https://github.com/user-attachments/assets/83a35068-d2e6-49b4-932c-0ba90d27ec5b)
